@@ -44,7 +44,7 @@ Payment gateway setup (e.g., Stripe, PayPal API)
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/exclusive-perfumes-website.git
+git clone https://github.com/thaps10186737/exclusive-perfumes-website.git
 Install Dependencies
 If using a JavaScript/Node.js stack:
 
