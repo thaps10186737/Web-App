@@ -118,10 +118,3 @@ We look forward to seeing your improvements!
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
-For questions or support, contact us at:
-
-Email: support@exclusiveperfumes.com
-Website: https://www.exclusiveperfumes.com
-GitHub: https://github.com/yourusername/exclusive-perfumes-website
